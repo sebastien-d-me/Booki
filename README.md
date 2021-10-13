@@ -8,7 +8,7 @@ Ce projet est le n°2 du parcours [Développeur Front-End](https://openclassroom
 1. Le texte du champ de recherche doit être éditable.
 2. Les activités et hébergements doivent être cliquables en intégralité (liens vides).
 3. Un effet de survol sur les filtres doit être présent.
-4. Les liens Hébergements et Activités doivent mener à la section correspondante.
+4. Les liens "Hébergements" et "Activités" doivent mener à la section correspondante.
 
 ##### Spécifications techniques
 1. Nous disposons des maquettes Desktop et Mobile. Le site doit être également adapté sur tablette avec les modifications nécessaires.  Le travail consistait à travailler en desktop first puis sur tablette puis téléphones.
