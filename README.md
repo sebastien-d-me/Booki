@@ -11,7 +11,7 @@ Ce projet est le n°2 du parcours [Développeur Front-End](https://openclassroom
 4. Les liens "Hébergements" et "Activités" doivent mener à la section correspondante.
 
 ##### Spécifications techniques
-1. Nous disposons des maquettes Desktop et Mobile. Le site doit être également adapté sur tablette avec les modifications nécessaires.  Le travail consistait à travailler en desktop first puis sur tablette puis téléphones.
+1. Nous disposons des maquettes Desktop et Mobile. Le site doit être également adapté sur tablette avec les modifications nécessaires.  Le travail consistait à travailler en desktop first puis sur tablette puis sur téléphone.
 2. Différentes tailles et formats d'image sont disponibles et il faut faire les meilleurs choix d'optimisation et de rendu.
 3. Les icônes utilisées proviennent de Font Awesome.
 4. La charte graphique est la suivante : Bleu (#0065FC), Bleu claire (#DEEBFF), Gris (#F2F2F2).
