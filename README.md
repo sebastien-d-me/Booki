@@ -20,7 +20,7 @@ Ce projet est le n°2 du parcours [Développeur Front-End](https://openclassroom
 7. Code valide au W3C : [HTML](https://validator.w3.org/nu/?doc=https%3A%2F%2Fsebastien-d-me.github.io%2FSebastienDelahaye_2_28092021%2F "HTML") | [CSS](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fsebastien-d-me.github.io%2FSebastienDelahaye_2_28092021%2Fcss%2Fbooki.css&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=fr "CSS").
 8. Compatible sur les dernières versions de Google Chrome et Mozilla Firefox.
 
-##### Compétences acquises
+### Compétences acquises
 - Intégrer du contenu conformément à une maquette.
 - Implémenter une interface responsive.
 
