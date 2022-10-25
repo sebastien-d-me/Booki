@@ -12,6 +12,18 @@
   --etoileBlanche: #d9d9d9;
 }
 
+/** Fonts **/
+@font-face {
+    font-family: Raleway;
+    src: url("../fonts/Raleway/Raleway-VariableFont_wght.ttf");
+}
+
+@font-face {
+    font-family: Raleway;
+    font-style: italic;
+    src: url("../fonts/Raleway/Raleway-Italic-VariableFont_wght.ttf");
+}
+
 /** Base **/
 html,
 body {
