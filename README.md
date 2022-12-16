@@ -1,3 +1,5 @@
+<meta content="https://raw.githubusercontent.com/sebastien-d-me/Booki/main/images/Logo.png" property="og:image" >
+
 # Formation Développeur Front-End
 ## Projet 2 - Booki
 ------------
